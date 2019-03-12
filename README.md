@@ -7,8 +7,8 @@
 ```
   node server.js
 ```
-# [localhost:3000](localhost:3000).
-
+  # [http://localhost:3000](http://localhost:3000).
+  
 ## Run with Docker
 ```
   1. docker build -t sample-nodejs-app .
