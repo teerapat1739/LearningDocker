@@ -1,13 +1,2 @@
 .DS_Store
-node_modules
-www
-dist
-report/*
-!report/.gitkeep
-
-package-lock.json
-yarn-error.log
-
-coverage
-
-cypress/videos/
+/node_modules
