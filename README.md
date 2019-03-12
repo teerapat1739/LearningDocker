@@ -1,11 +1,14 @@
 ## Install
-It will test filename that include .test / .spec
 ```
   yarn
 ```
 
-## Run
-It will test filename that include .test / .spec
+## Run with node
 ```
-  yarn start
+  node server.js
+```
+
+## Run with Docker
+```
+  - docker build -t sample-nodejs-app .
 ```
